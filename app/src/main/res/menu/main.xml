@@ -1,0 +1,47 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.larson.indoorlocalization.client.IMUActivity">
+
+    <item
+        android:id="@+id/action_find_device"
+        android:orderInCategory="100"
+        android:title="@string/action_find_phone"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_control_device"
+        android:orderInCategory="100"
+        android:title="@string/action_control_phone"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_send_sync"
+        android:orderInCategory="100"
+        android:title="@string/action_send_sync"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_send_sync_pressure"
+        android:orderInCategory="100"
+        android:title="@string/action_send_sync_pressure"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_send_sync_muti"
+        android:orderInCategory="100"
+        android:title="@string/action_send_sync_muti"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_send_sync_muti_pressure"
+        android:orderInCategory="100"
+        android:title="@string/action_send_sync_pressure_muti"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_fetch_clients"
+        android:orderInCategory="100"
+        android:title="@string/action_send_fetch_clients"
+        app:showAsAction="ifRoom" />
+</menu>

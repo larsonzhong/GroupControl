@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Group Control</string>
+    <string name="client_name">Group Control Client</string>
+    <string name="server_name">Group Control Server</string>
+
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="state_connected">connected</string>
+
+    <string name="action_find_phone">查找手机</string>
+    <string name="action_control_phone">开启控制</string>
+    <string name="action_send_sync">发送同步</string>
+    <string name="action_send_sync_pressure">同步压力</string>
+    <string name="action_send_sync_muti">群发同步</string>
+    <string name="action_send_sync_pressure_muti">群同步压</string>
+    <string name="action_send_fetch_clients">获取Client</string>
+
+    <string name="remote_display_client">Client Activity</string>
+    <string name="remote_display_server">Server Activity</string>
+
+    <string name="text_connecting">connecting</string>
+    <string name="text_disconnecting">disconnecting</string>
+</resources>
